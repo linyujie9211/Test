@@ -11,5 +11,7 @@ namespace ConsoleApp1
 
         public int bb { get; set; }
         public int aa { get; set; }
+
+        public int dd { get; set; }
     }
 }
