@@ -9,5 +9,7 @@ namespace ConsoleApp1
     public class Test2
     {
         public int MyProperty { get; set; }
+
+        //master修改
     }
 }
